@@ -4,9 +4,9 @@
 npm init astro -- --template blog
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/astro-js/astro-theme-blog)&nbsp;&nbsp;[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/astro-js/astro-theme-blog)
 
-Features:
+## Features:
 
 - ✅ SEO-friendly setup with canonical URLs and OpenGraph data
 - ✅ Full Markdown support
@@ -48,4 +48,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://github.com/snowpackjs/astro) or jump into our [Discord server](https://astro.build/chat).
+Check out [the documentation](https://github.com/snowpackjs/astro) or jump into our [Discord server](https://astro.build/chat).
